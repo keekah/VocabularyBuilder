@@ -1,0 +1,6 @@
+[submodule "VocabularyBuilderApp"]
+	path = VocabularyBuilderApp
+	url = https://github.com/keekah/VocabularyBuilderApp.git
+[submodule "VocabularyBuilderWeb"]
+	path = VocabularyBuilderWeb
+	url = https://github.com/keekah/VocabularyBuilderWeb.git

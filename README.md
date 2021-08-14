@@ -14,9 +14,11 @@ Vocabulary Builder is a full-stack project that consists of an Android applicati
 
 The front end of the project is a native Android application. Developed using Android Studio, it was written in Kotlin and has been tested using emulated Android devices (Pixel 2 API level 30, Pixel 4 API level 29, and Nexus 7 API level 28) as well as a physical device (Samsung Galaxy S8 API level 28). The application features both light and dark themes. 
 
- <img src="./images/multi-lang.png" alt="multi language support" width="315px" height="560px"> &nbsp;&nbsp;&nbsp; <img src="./images/mandarin-word-definition-dark.png" alt="multi language support" width="315px" height="560px"> &nbsp;&nbsp;&nbsp; <img src="./images/enter-word-definition.png" alt="multi language support" width="315px" height="560px">
-
- 
+<p align="center">
+  <img src="./images/multi-lang.png" alt="multi language support" width="252" height="448"> &nbsp;&nbsp;&nbsp;
+  <img src="./images/mandarin-word-definition-dark.png" alt="multi language support" width="252" height="448">&nbsp;&nbsp;&nbsp;
+  <img src="./images/enter-word-definition.png" alt="multi language support" width="252" height="448">
+</p>
 
 ### Functionality 
 
